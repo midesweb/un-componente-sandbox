@@ -23,11 +23,7 @@ It also posible to set a format to introduce the way to present the date to the 
 
 Custom property | Description | Default
 ----------------|-------------|---------
-`--dile-timestamp-to-date | Mixin applied to entire element | {}
-
-## Install the Polymer-CLI
-
-First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your element locally.
+--dile-timestamp-to-date | Mixin applied to entire element | {}
 
 ## Viewing this Element
 
@@ -40,5 +36,3 @@ $ polymer serve
 ```
 $ polymer test
 ```
-
-Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
